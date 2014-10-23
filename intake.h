@@ -4,7 +4,7 @@
 typedef struct {
 
 
-	tMotor intake, //Declare intake motor as a motor.
+	tMotor intake,
 ;
 
 

@@ -4,7 +4,7 @@
 typedef struct {
 
 
-	tMotor lift //Define lift motor as a motor
+	tMotor lift
 ;
 
 
